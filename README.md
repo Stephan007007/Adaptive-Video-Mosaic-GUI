@@ -1,6 +1,9 @@
 # Adaptive-Video-Mosaic-GUI
 Make mosaic videos and GIFs
 
+![video_mosaic_1754764805](https://github.com/user-attachments/assets/d0c69af4-04f2-441e-ba0e-895e788101e4)
+
+
 # First time
 Download source (click "Code" and "Download zip"), extract the zip, install requirements, open adaptive_video_mosaic_gui.py
 
@@ -11,14 +14,14 @@ Use the prebuilt version built with PyInstaller - open the .exe file.
 # Requirements
 If you haven't already, install Python. On Windows it's relatively simple - open cmd as administrator and type in: 
 
-winget install python
+  winget install python
 
 (Hopefully it should automatically add Python to PATH. Try the command below - if it fails, look up "Add Python to PATH on Windows")
 
 
 Before opening adaptive_photo_mosaic_gui.py, you have to open cmd as administrator and type in:
 
-pip install pillow numpy moviepy imageio imageio-ffmpeg tqdm
+  pip install pillow numpy moviepy imageio imageio-ffmpeg tqdm
 
 # Usage
 1. Download a variety of images or GIFs (the more colours the better) and put them inside a folder.
